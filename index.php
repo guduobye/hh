@@ -1,3 +1,3 @@
 <?php
-echo 'nihao 呀';
+echo 'nihao 你呀';
 ?>
